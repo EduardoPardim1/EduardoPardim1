@@ -13,7 +13,7 @@
       <p>Trabalho com interfaces modernas, APIs, bancos de dados e integrações de IA — sempre com atenção à experiência de quem está do outro lado da tela. Atualmente, também exploro aplicações no ecossistema blockchain e Solana.</p>
     </td>
     <td width="32%" align="center">
-      <img src="./eduardo-profile.png" width="210" height="210" alt="Foto de Eduardo Pardim" style="border-radius: 50%;" />
+      <img src="https://raw.githubusercontent.com/EduardoPardim1/EduardoPardim1/main/eduardo-profile.png" width="210" height="210" alt="Foto de Eduardo Pardim" style="border-radius: 50%;" />
     </td>
   </tr>
 </table>
